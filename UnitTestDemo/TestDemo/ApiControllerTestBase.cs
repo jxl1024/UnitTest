@@ -1,17 +1,20 @@
-﻿using Microsoft.AspNetCore;
-using Microsoft.AspNetCore.Hosting;
+﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.TestHost;
-using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Net.Http;
-using System.Text;
 using UnitTestDemo;
 
 namespace TestDemo
 {
+    /// <summary>
+    /// 基类
+    /// </summary>
     public class ApiControllerTestBase
     {
+        /// <summary>
+        /// 返回HttpClient对象
+        /// </summary>
+        /// <returns></returns>
         protected HttpClient GetClient()
         {
             var builder = new WebHostBuilder()

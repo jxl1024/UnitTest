@@ -1,26 +1,27 @@
-﻿using Microsoft.AspNetCore;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.TestHost;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 using UnitTest.Model;
-using UnitTestDemo;
 using Xunit;
 using Xunit.Abstractions;
 
 namespace TestDemo
 {
-    public class StudentTest
+    public class StudentTest: ApiControllerTestBase
     {
         public HttpClient Client { get; }
         public ITestOutputHelper Output { get; }
+
+
         public StudentTest(ITestOutputHelper outputHelper)
         {
-            var server = new TestServer(WebHost.CreateDefaultBuilder()
-           .UseStartup<Startup>());
-            Client = server.CreateClient();
+            // var server = new TestServer(WebHost.CreateDefaultBuilder()
+            //.UseStartup<Startup>());
+            // Client = server.CreateClient();
+
+            // 从父类里面获取HttpClient对象
+            Client = base.GetClient();
             Output = outputHelper;
         }
 

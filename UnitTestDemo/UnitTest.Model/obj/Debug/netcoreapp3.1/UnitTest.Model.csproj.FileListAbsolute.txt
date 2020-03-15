@@ -1,7 +1,6 @@
 F:\test\UnitTest\UnitTestDemo\UnitTest.Model\bin\Debug\netcoreapp3.1\UnitTest.Model.deps.json
 F:\test\UnitTest\UnitTestDemo\UnitTest.Model\bin\Debug\netcoreapp3.1\UnitTest.Model.dll
 F:\test\UnitTest\UnitTestDemo\UnitTest.Model\bin\Debug\netcoreapp3.1\UnitTest.Model.pdb
-F:\test\UnitTest\UnitTestDemo\UnitTest.Model\obj\Debug\netcoreapp3.1\UnitTest.Model.csprojAssemblyReference.cache
 F:\test\UnitTest\UnitTestDemo\UnitTest.Model\obj\Debug\netcoreapp3.1\UnitTest.Model.AssemblyInfoInputs.cache
 F:\test\UnitTest\UnitTestDemo\UnitTest.Model\obj\Debug\netcoreapp3.1\UnitTest.Model.AssemblyInfo.cs
 F:\test\UnitTest\UnitTestDemo\UnitTest.Model\obj\Debug\netcoreapp3.1\UnitTest.Model.dll
