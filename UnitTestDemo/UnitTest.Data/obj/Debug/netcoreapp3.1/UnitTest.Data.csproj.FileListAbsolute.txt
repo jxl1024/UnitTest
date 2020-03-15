@@ -1,0 +1,13 @@
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\bin\Debug\netcoreapp3.1\UnitTest.Data.deps.json
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\bin\Debug\netcoreapp3.1\UnitTest.Data.dll
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\obj\Debug\netcoreapp3.1\UnitTest.Data.csprojAssemblyReference.cache
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\obj\Debug\netcoreapp3.1\UnitTest.Data.AssemblyInfoInputs.cache
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\obj\Debug\netcoreapp3.1\UnitTest.Data.AssemblyInfo.cs
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\bin\Debug\netcoreapp3.1\UnitTest.Data.runtimeconfig.json
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\bin\Debug\netcoreapp3.1\UnitTest.Data.runtimeconfig.dev.json
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\bin\Debug\netcoreapp3.1\UnitTest.Model.dll
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\bin\Debug\netcoreapp3.1\UnitTest.Data.pdb
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\bin\Debug\netcoreapp3.1\UnitTest.Model.pdb
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\obj\Debug\netcoreapp3.1\UnitTest.Data.csproj.CopyComplete
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\obj\Debug\netcoreapp3.1\UnitTest.Data.dll
+F:\test\UnitTest\UnitTestDemo\UnitTest.Data\obj\Debug\netcoreapp3.1\UnitTest.Data.pdb

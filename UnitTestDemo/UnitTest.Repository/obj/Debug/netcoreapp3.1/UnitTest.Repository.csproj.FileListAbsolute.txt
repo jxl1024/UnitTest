@@ -1,0 +1,15 @@
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.Repository.deps.json
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.Repository.dll
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.Repository.pdb
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.Data.dll
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.IRepository.dll
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.Model.dll
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.Data.pdb
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.IRepository.pdb
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\bin\Debug\netcoreapp3.1\UnitTest.Model.pdb
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\obj\Debug\netcoreapp3.1\UnitTest.Repository.csprojAssemblyReference.cache
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\obj\Debug\netcoreapp3.1\UnitTest.Repository.AssemblyInfoInputs.cache
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\obj\Debug\netcoreapp3.1\UnitTest.Repository.AssemblyInfo.cs
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\obj\Debug\netcoreapp3.1\UnitTest.Repository.csproj.CopyComplete
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\obj\Debug\netcoreapp3.1\UnitTest.Repository.dll
+F:\test\UnitTest\UnitTestDemo\UnitTest.Repository\obj\Debug\netcoreapp3.1\UnitTest.Repository.pdb
